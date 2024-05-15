@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SaveTheDove</string>
+    <string name="score">Score : 0</string>
+    <string name="highScore">High Score : 0</string>
+    <string name="startBtn">Start</string>
+    <string name="playAgainButton">play Again</string>
+</resources>
